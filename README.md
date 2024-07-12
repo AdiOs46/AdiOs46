@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow <Developers/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello there👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=3A8EF7&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
