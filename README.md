@@ -8,8 +8,7 @@
 
 - 👋 Hi, I'm Aditya Ojha
 - 🎓 Computer Science student at Manipal Institute of Technology
-- 💼 Seeking opportunities in web development and software engineering
-- 👯 Looking to collaborate on backend software development projects
+- 💼 Seeking opportunities and collaborations in web development and software engineering
 - ⛩️ I watch anime and love cinema
 - 💪🏼 Always down for a good gym session
 - 🚀 I'm currently spending my time on: DSA 
