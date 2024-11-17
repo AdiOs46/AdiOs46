@@ -27,8 +27,8 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ojha-adios/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://twitter.com/adiotwts">
+    <img src="https://img.shields.io/twitter/follow/adiotwts"/>
   </a>
   <a href="mailto:aditya.ao.ojha@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
