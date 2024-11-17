@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 👋 Hi, I'm Aditya Ojha
-- 🎓 Computer Science student at Manipal Institute of Technology
+- 🎓 CSE '25
 - 💼 Seeking opportunities and collaborations in web development and software engineering
 - ⛩️ I watch anime and love cinema
 - 💪🏼 Always down for a good gym session
